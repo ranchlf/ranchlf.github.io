@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>灵风牧场</title>
+  
+  <subtitle>灵风牧场</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://ranchlf.github.io/"/>
+  <updated>2020-04-12T04:20:23.699Z</updated>
+  <id>https://ranchlf.github.io/</id>
+  
+  <author>
+    <name>灵风</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://ranchlf.github.io/2020/04/12/hello-world/"/>
+    <id>https://ranchlf.github.io/2020/04/12/hello-world/</id>
+    <published>2020-04-12T04:20:23.699Z</published>
+    <updated>2020-04-12T04:20:23.699Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
